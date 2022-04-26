@@ -1,0 +1,6 @@
+roadSide = (0, 0, 120, 700)
+roadWhiteMarks = (120, 0, 130, 700)
+road = (130, 0, 470, 700)
+roadWhiteMarks2 = (470, 0, 480, 700)
+roadSide2 = (480, 0, 600, 700)
+roadColor = ()
